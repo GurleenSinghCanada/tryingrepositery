@@ -15,6 +15,7 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {
         System.out.println("Hi there")
+            System.out.println("wow it worked")
         
         // TODO code application logic here
     }
